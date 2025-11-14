@@ -43,5 +43,3 @@ When I'm not working with data, I enjoy playing basketball. I love the "aha!" mo
   <img src="https://img.shields.io/badge/Power%20BI-Beginner-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   
-0Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
