@@ -20,7 +20,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy playing basketball. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://codebythapii.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https:datacamp.com/portfolio/Thapii)
       
 ## 🔭 What I'm Currently Working On 
 
